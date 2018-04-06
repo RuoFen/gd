@@ -6,6 +6,7 @@ public class fsff {
 		System.out.println("Hello World!");
 		System.out.println("I Love You!");
 		System.out.println("I Love You too£¡");
+		System.out.println("I Love You 4");
 
 	}
 }
